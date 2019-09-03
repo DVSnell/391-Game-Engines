@@ -1,0 +1,11 @@
+H:\_COLLEGE\Fall 2019\Game Engines\391-Game-Engines\Homework 1\Homework 1\bin\Debug\netcoreapp2.1\Homework 1.deps.json
+H:\_COLLEGE\Fall 2019\Game Engines\391-Game-Engines\Homework 1\Homework 1\bin\Debug\netcoreapp2.1\Homework 1.runtimeconfig.json
+H:\_COLLEGE\Fall 2019\Game Engines\391-Game-Engines\Homework 1\Homework 1\bin\Debug\netcoreapp2.1\Homework 1.runtimeconfig.dev.json
+H:\_COLLEGE\Fall 2019\Game Engines\391-Game-Engines\Homework 1\Homework 1\bin\Debug\netcoreapp2.1\Homework 1.dll
+H:\_COLLEGE\Fall 2019\Game Engines\391-Game-Engines\Homework 1\Homework 1\bin\Debug\netcoreapp2.1\Homework 1.pdb
+H:\_COLLEGE\Fall 2019\Game Engines\391-Game-Engines\Homework 1\Homework 1\obj\Debug\netcoreapp2.1\Homework 1.csprojAssemblyReference.cache
+H:\_COLLEGE\Fall 2019\Game Engines\391-Game-Engines\Homework 1\Homework 1\obj\Debug\netcoreapp2.1\Homework 1.csproj.CoreCompileInputs.cache
+H:\_COLLEGE\Fall 2019\Game Engines\391-Game-Engines\Homework 1\Homework 1\obj\Debug\netcoreapp2.1\Homework 1.AssemblyInfoInputs.cache
+H:\_COLLEGE\Fall 2019\Game Engines\391-Game-Engines\Homework 1\Homework 1\obj\Debug\netcoreapp2.1\Homework 1.AssemblyInfo.cs
+H:\_COLLEGE\Fall 2019\Game Engines\391-Game-Engines\Homework 1\Homework 1\obj\Debug\netcoreapp2.1\Homework 1.dll
+H:\_COLLEGE\Fall 2019\Game Engines\391-Game-Engines\Homework 1\Homework 1\obj\Debug\netcoreapp2.1\Homework 1.pdb
