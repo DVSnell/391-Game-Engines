@@ -17,6 +17,33 @@ namespace Playtime_101 //groups classes together for duplicate namespace classes
             int ageOut = 0;
             int ageSum = 0;
             string favGame = "Game";
+            int difficulty = 20;
+
+            if (ageOut >= 13)
+            {
+                difficulty = 100;
+            }
+            else
+            {
+                difficulty = 20;
+            }
+
+            int[] addendA = new int[10];
+            int[] addendB = new int[10];
+            for (int i = 0; i < addendA.Length && i < addendB.Length; i++)
+            {
+                Random randomA = new Random();
+                int randomAddendA = randomA.Next(difficulty);
+                addendA[i] = randomAddendA;
+                System.Threading.Thread.Sleep(25);
+                Random randomB = new Random();
+                int randomAddendB = randomB.Next(difficulty);
+                addendB[i] = randomAddendB;
+                System.Threading.Thread.Sleep(25);
+            }
+
+            Console.WriteLine();
+            System.Threading.Thread.Sleep(25);
 
             Console.WriteLine("Greetings.  By what name do you wish to be called?");
             playerName = Console.ReadLine();
@@ -40,9 +67,15 @@ namespace Playtime_101 //groups classes together for duplicate namespace classes
             Console.WriteLine("I like to play games.  What is your favorite game?");
             favGame = Console.ReadLine();
             System.Threading.Thread.Sleep(1000);
-            Console.WriteLine(favGame +" sounds like an intersting game.  You'll have to tell me more about it later, but right now I'm wondering if you'd like to play a different game.  Would you like to play a math game with me?");
+            Console.WriteLine(favGame + " sounds like an interesting game.  You'll have to tell me more about it later."); 
+            Console.WriteLine("I'm wondering if you'd like to play a different game.  Would you like to play a math game with me?");
+
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
 
             Console.ReadLine();
+
         }
     }
 }

@@ -9,3 +9,14 @@ H:\_COLLEGE\Fall 2019\Game Engines\391-Game-Engines\Homework 1\Homework 1\obj\De
 H:\_COLLEGE\Fall 2019\Game Engines\391-Game-Engines\Homework 1\Homework 1\obj\Debug\netcoreapp2.1\Homework 1.AssemblyInfo.cs
 H:\_COLLEGE\Fall 2019\Game Engines\391-Game-Engines\Homework 1\Homework 1\obj\Debug\netcoreapp2.1\Homework 1.dll
 H:\_COLLEGE\Fall 2019\Game Engines\391-Game-Engines\Homework 1\Homework 1\obj\Debug\netcoreapp2.1\Homework 1.pdb
+C:\Users\ds127331\Documents\GitHub\391-Game-Engines\Homework 1\Homework 1\bin\Debug\netcoreapp2.1\Homework 1.deps.json
+C:\Users\ds127331\Documents\GitHub\391-Game-Engines\Homework 1\Homework 1\bin\Debug\netcoreapp2.1\Homework 1.runtimeconfig.json
+C:\Users\ds127331\Documents\GitHub\391-Game-Engines\Homework 1\Homework 1\bin\Debug\netcoreapp2.1\Homework 1.runtimeconfig.dev.json
+C:\Users\ds127331\Documents\GitHub\391-Game-Engines\Homework 1\Homework 1\bin\Debug\netcoreapp2.1\Homework 1.dll
+C:\Users\ds127331\Documents\GitHub\391-Game-Engines\Homework 1\Homework 1\bin\Debug\netcoreapp2.1\Homework 1.pdb
+C:\Users\ds127331\Documents\GitHub\391-Game-Engines\Homework 1\Homework 1\obj\Debug\netcoreapp2.1\Homework 1.csprojAssemblyReference.cache
+C:\Users\ds127331\Documents\GitHub\391-Game-Engines\Homework 1\Homework 1\obj\Debug\netcoreapp2.1\Homework 1.csproj.CoreCompileInputs.cache
+C:\Users\ds127331\Documents\GitHub\391-Game-Engines\Homework 1\Homework 1\obj\Debug\netcoreapp2.1\Homework 1.AssemblyInfoInputs.cache
+C:\Users\ds127331\Documents\GitHub\391-Game-Engines\Homework 1\Homework 1\obj\Debug\netcoreapp2.1\Homework 1.AssemblyInfo.cs
+C:\Users\ds127331\Documents\GitHub\391-Game-Engines\Homework 1\Homework 1\obj\Debug\netcoreapp2.1\Homework 1.dll
+C:\Users\ds127331\Documents\GitHub\391-Game-Engines\Homework 1\Homework 1\obj\Debug\netcoreapp2.1\Homework 1.pdb

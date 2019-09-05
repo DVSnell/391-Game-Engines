@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DV\\.nuget\\packages\\": {},
+    "C:\\Users\\ds127331\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\_COLLEGE\\Fall 2019\\Game Engines\\391-Game-Engines\\Homework 1\\Homework 1\\Homework 1.csproj",
+      "projectUniqueName": "C:\\Users\\ds127331\\Documents\\GitHub\\391-Game-Engines\\Homework 1\\Homework 1\\Homework 1.csproj",
       "projectName": "Homework 1",
-      "projectPath": "H:\\_COLLEGE\\Fall 2019\\Game Engines\\391-Game-Engines\\Homework 1\\Homework 1\\Homework 1.csproj",
-      "packagesPath": "C:\\Users\\DV\\.nuget\\packages\\",
-      "outputPath": "H:\\_COLLEGE\\Fall 2019\\Game Engines\\391-Game-Engines\\Homework 1\\Homework 1\\obj\\",
+      "projectPath": "C:\\Users\\ds127331\\Documents\\GitHub\\391-Game-Engines\\Homework 1\\Homework 1\\Homework 1.csproj",
+      "packagesPath": "C:\\Users\\ds127331\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ds127331\\Documents\\GitHub\\391-Game-Engines\\Homework 1\\Homework 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\DV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ds127331\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
