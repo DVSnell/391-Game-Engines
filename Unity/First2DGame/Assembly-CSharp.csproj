@@ -63,6 +63,12 @@
     <Compile Include="Assets\Ask.cs" />
     <Compile Include="Assets\CameraStuff.cs" />
     <Compile Include="Assets\Dog.cs" />
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>H:/_COLLEGE/Fall 2019/Game Engines/391-Game-Engines/Unity/First2DGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>H:/_COLLEGE/Fall 2019/Game Engines/391-Game-Engines/Unity/First2DGame/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>H:/_COLLEGE/Fall 2019/Game Engines/391-Game-Engines/Unity/First2DGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>

@@ -8,17 +8,20 @@ namespace Assets
 {
     class Ask
     {
-        private string questions;
+
+        private String[] questions = { "Dya like dahgs?", "Periwinkle blue?", "Protection?", "From what? Ze Germans?" };
+
 
         public string Questions
         {
-            get { return questions[]; }
+            get { return questions[4]; }
         }
 
-        public string Ask[]
+        public void Asking()
         {
-            this.questions = "Dya like dahgs?", "Periwinkle blue?", "Protection?", "From what? Ze Germans?";
-
+            Random query = new Random();
+            int asker = query.Next(questions.Length);
         }
+
     }
 }
