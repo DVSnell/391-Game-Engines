@@ -17,11 +17,12 @@ public class CameraStuff : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+   
         if (Input.GetKey("g"))
         {
-            for (int i = 0; i < 3; i++)
+            for (int n = 0; n < 3; n++)
             {
-                print(Ask.Questions[i]);
+                print(Ask.Questions[n]);
             }
         }
         //print("In Update");

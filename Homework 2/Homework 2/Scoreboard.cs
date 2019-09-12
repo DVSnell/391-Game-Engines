@@ -14,15 +14,16 @@ namespace Homework_2
 
         static public void Scores()
         {
+            Console.WriteLine();
             Console.WriteLine("Here are the current high scores:");
+            name[n] = Player.playerName;
+            score[s] = Player.score;
             for (int x = 0; x < 10; x++)
             {
                 Console.WriteLine(name[n] + " got a score of " + score[s]);
                 n++;
                 s++;
             }
-            name[n] = Player.playerName;
-            score[s] = Player.score;
         }
     }
 }

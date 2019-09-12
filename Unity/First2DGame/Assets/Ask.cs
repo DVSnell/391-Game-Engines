@@ -8,20 +8,12 @@ namespace Assets
 {
     class Ask
     {
-
         static private String[] questions = { "Dya like dahgs?", "Periwinkle blue?", "Protection?", "From what? Ze Germans?" };
         static public int i = 0;
 
-         static public string Questions
+        static public string[] Questions
         {
-            get { return questions[i]; }
+            get { return questions; }
         }
-
-        private void Asking()
-        {
-            const int correct = 1;
-            int asker = 0;
-        }
-
     }
 }

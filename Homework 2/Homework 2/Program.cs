@@ -78,7 +78,6 @@ namespace Homework_2
                     //  Populate our answers array.
                     Answers.Sums();
 
-
                     //  Our end-state after reaching 10 questions asked.  Includes score total and an ending message.
                     Console.WriteLine("Okay, " + Player.playerName + ", I'm tallying up your answers.");
                     System.Threading.Thread.Sleep(3000);
