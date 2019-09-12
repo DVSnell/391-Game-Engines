@@ -11,14 +11,18 @@ public class CameraStuff : MonoBehaviour
         print("In Start"); ;
         Dog dog = new Dog("Doggie");
         print(dog.Name);
+        print("Hello.");
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey("d"))
+        if (Input.GetKey("g"))
         {
-            print("d was pressed");
+            for (int i = 0; i < 3; i++)
+            {
+                print(Ask.Questions[i]);
+            }
         }
         //print("In Update");
     }

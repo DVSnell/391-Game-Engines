@@ -9,18 +9,18 @@ namespace Assets
     class Ask
     {
 
-        private String[] questions = { "Dya like dahgs?", "Periwinkle blue?", "Protection?", "From what? Ze Germans?" };
+        static private String[] questions = { "Dya like dahgs?", "Periwinkle blue?", "Protection?", "From what? Ze Germans?" };
+        static public int i = 0;
 
-
-        public string Questions
+         static public string Questions
         {
-            get { return questions[4]; }
+            get { return questions[i]; }
         }
 
-        public void Asking()
+        private void Asking()
         {
-            Random query = new Random();
-            int asker = query.Next(questions.Length);
+            const int correct = 1;
+            int asker = 0;
         }
 
     }
